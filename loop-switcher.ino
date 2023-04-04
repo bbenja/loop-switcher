@@ -6,7 +6,6 @@
 #define dataPin 11
 #define modeLED A0
 #define bankLED 13
-
 #define ampBoostPin 1 // TX
 #define ampChannelPin A7
 int relayPin[8] = {2, 3, 4, 5, 6, 7, 8, 9};
